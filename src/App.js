@@ -74,7 +74,7 @@ function App() {
           <ReviewsCarousel
             instanceid={InstanceId_Carousel}
             productid={ProductId}
-            active="false"
+            active="true"
             heading="Reviews Carousel"
             clipboardheading={ClipBoardHeading}
             clipboardscript={ScriptClipboard}
@@ -110,7 +110,7 @@ function App() {
           <UgcGallery
             instanceid={InstanceId_UgcGallery}
             productid={ProductId}
-            active="true"
+            active="false"
             heading="UGC Gallery"
             clipboardheading={ClipBoardHeading}
             clipboardscript={ScriptClipboard}
