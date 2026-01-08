@@ -12,10 +12,10 @@ function App() {
   let InstanceId_Widget = "";
   let InstanceId_QA = "";
   let InstanceId_SEO = "";
-  let InstanceId_Carousel = "1171752";
+  let InstanceId_Carousel = "";
   let InstanceId_StarRating = "";
   let InstanceId_PromotedProd = "";
-  let InstanceId_UgcGallery = "";
+  let InstanceId_UgcGallery = "1267969";
   let InstanceId_ReviewsTab = "";
 
   //Product ID
